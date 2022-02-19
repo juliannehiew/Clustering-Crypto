@@ -22,20 +22,25 @@ You are asked to accomplish the following main tasks:
 
 ### Overview
 
-* Clustering Cryptocurrencies Using K-Means
-
-* Elbow Curve
-
-
-
-
-
-
----
-
 ### Data visualization
 
-* 3D-Scatter Plot
+Clustering Cryptocurrencies Using K-Means
+
+* Elbow Curve
+## ![Elbow Curve](https://github.com/juliannehiew/Clustering-Crypto/blob/main/Images/Elbow%20Curve.JPG)
+
+
+Elbow curve is used to calculate the WSS for different values of K, and select the best value of K when WSS starts to diminish.  In this instance, the plot looks like a clear elbow at k = 4.
+
+
+
+* 3D-Scatter with the PCA data and the clusters
+## ![ 3D-Scatter with the PCA data and the clusters](https://github.com/juliannehiew/Clustering-Crypto/blob/main/Images/Visualising%20results%20-%203D%20Clusters.JPG)
+
+
+* Scatter Plot with Tradable Cryptocurrencies
+## ![ Scatter Plot with Tradable Cryptocurrencies](https://github.com/juliannehiew/Clustering-Crypto/blob/main/Images/Scatter%20Plot%20with%20Tradable%20Cryptocurrencies.JPG)
+
 
 
 
